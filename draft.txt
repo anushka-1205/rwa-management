@@ -1,0 +1,10 @@
+                   --Society--
+  requests the pleasure of your benign presence 
+          on the auspicious occasion of
+                  <event name>
+                    at <venue>
+                    <address>
+              at <time> on <date>
+RSVP
+<president name>
+<contact details>
