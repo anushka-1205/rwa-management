@@ -1,6 +1,6 @@
 # RWA Management System
 
-The project is designed bearing in mind the importance of a well maintained community and improvement in the working of a society and its RWA group. The project is based on Python and SQL.
+The project is designed bearing in mind the importance of a well-maintained community and improvement in the working of a society and its RWA group. The project is based on Python and SQL.
 
 It provides a digital way to take care of a residential society effortlessly. We have tried to make a user-friendly program where one can enter a new record, display specific records, and perform other functions with the help of Data Files or SQL connecting with Python. A section shares information related to the RWA group, such as the members and their roles; it also takes inputs from the user for any inquiry. A billing department is present to manage the several fees in the society; a grocery department supervises the shops for the residents' convenience. 
 
